@@ -1,0 +1,1 @@
+console.log('JEE Tracker app entry point');
